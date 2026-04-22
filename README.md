@@ -1,5 +1,5 @@
 # 💫 About Me:
-Android & Cross‑Platform Developer with 6‑month internship experience, <br>proficient in React Native, Flutter, Dart, JavaScript, Express.js, Node.js, <br>MongoDB, SQL, HTML, CSS, Tailwind CSS, Bootstrap, C, C++, and Java. <br>During the internship, I implemented mobile features and optimized app performance, applying REST API integration<br>, UI/UX best practices, and Agile development workflows. Skilled in clean architecture (MVVM), version control with Git,<br> and cross‑platform frameworks,<br> I’m passionate about building high‑quality, user‑centric applications and keen to contribute to a collaborative, fast-paced team.
+Android & Cross‑Platform Developer with 3‑month internship and Freelance work experience, <br>proficient in React Native, Flutter, Dart, JavaScript, Express.js, Node.js, <br>MongoDB, SQL, HTML, CSS, Tailwind CSS, Bootstrap, C, C++, and Java. <br>During the internship, I implemented mobile features and optimized app performance, applying REST API integration<br>, UI/UX best practices, and Agile development workflows. Skilled in clean architecture (MVVM), version control with Git,<br> and cross‑platform frameworks,<br> I’m passionate about building high‑quality, user‑centric applications and keen to contribute to a collaborative, fast-paced team.
 
 
 ## 🌐 Socials:
